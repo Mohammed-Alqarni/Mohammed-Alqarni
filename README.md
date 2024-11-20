@@ -1,3 +1,12 @@
+
+
+
+
+
+
+A stunning and professional depiction of Saudi Arabia's journey blending its heritage and advancements in artificial intelligence. The foreground features ancestors in traditional Najdi attire standing under the shade of tall palm trees in an oasis, accompanied by camels. The background showcases a futuristic Riyadh skyline with towering skyscrapers and glowing AI elements like holographic projections, neural networks, and circuits subtly integrated into the cityscape. The desert transitions into the modern city, symbolizing progress and innovation. The scene highlights the fusion of tradition with cutting-edge technology, portraying Saudi Arabia as a leader in AI and technological advancements.
+
+
 # Mohammed Alqarni
 
 ## About Me  
