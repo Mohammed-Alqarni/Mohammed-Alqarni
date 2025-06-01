@@ -1,34 +1,38 @@
-
-
 # Mohammed Alqarni
 
-## About Me  
-Hi, I’m **Mohammed Alqarni**, a passionate Data Science Specialist with expertise in **Data Analysis**, **Machine Learning**, and **Business Intelligence**. I am dedicated to turning data into actionable insights that drive strategic decision-making.  
+> Turning fragmented data into structured insight.  
+> Connecting systems, teams, and decisions through intelligent analytics.
 
-## Interests  
-I am deeply interested in:  
-- **Data Science** and its applications in solving real-world problems.  
-- **Machine Learning Models** to enhance automation and predictions.  
-- **Business Intelligence Tools** like Power BI and Tableau to visualize data effectively.  
+---
 
-## Currently Learning  
-I’m currently expanding my knowledge in:  
-- Advanced **Natural Language Processing (NLP)** techniques.  
-- **Big Data Technologies** like Apache Spark and Hadoop.  
-- **Cloud Computing Platforms** for scalable data solutions.  
-- **DevOps Practices** to streamline and optimize development and deployment workflows.  
+##  Focus Areas
 
-## Collaboration  
-I’m looking to collaborate on:  
-- Innovative projects in **data-driven decision-making**.  
-- Open-source projects involving **data visualization**.  
-- Projects focused on **social media analysis**, **text analysis**, and **sentiment analysis**.  
+* **Data Science & Analytics**  
+  Machine learning, statistical modeling, and practical insights from real-world data.
 
-## Contact  
-Reach me at:  
-- **Email**: [m30.alqarni@gmail.com](mailto:m30.alqarni@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mohammed-ayidh-alqarni)  
-- **GitHub**: [@Mohammed-Alqarni](https://github.com/Mohammed-Alqarni)  
+* **Business Intelligence**  
+  Visual storytelling and dashboarding using Power BI, with an eye for what decision-makers *need* to see.
 
+* **Enterprise Data Mapping**  
+  Building data ecosystems across departments: governance, ownership, lineage, and clarity.
 
+* **Natural Language Processing**  
+  Extracting meaning from text, enabling sentiment analysis, social media insights, and feedback mining.
+
+---
+
+##  Currently Building
+
+* A dynamic **Power BI dashboard** framework with live system sync  
+* A complete **data documentation structure** across departments  
+* Standardized **data entry and validation policies**  
+* Deeper expertise in **cloud computing**, **DevOps**, and **advanced NLP**
+
+---
+
+##  Let’s Connect
+
+*  [LinkedIn](https://linkedin.com/in/mohammed-ayidh-alqarni)  
+*  [GitHub](https://github.com/Mohammed-Alqarni)  
+*  [m30.alqarni@gmail.com](mailto:m30.alqarni@gmail.com)
 
