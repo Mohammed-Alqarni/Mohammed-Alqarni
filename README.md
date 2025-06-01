@@ -21,15 +21,6 @@
 
 ---
 
-##  Currently Building
-
-* A dynamic **Power BI dashboard** framework with live system sync  
-* A complete **data documentation structure** across departments  
-* Standardized **data entry and validation policies**  
-* Deeper expertise in **cloud computing**, **DevOps**, and **advanced NLP**
-
----
-
 ##  Let’s Connect
 
 *  [LinkedIn](https://linkedin.com/in/mohammed-ayidh-alqarni)  
